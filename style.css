@@ -1,50 +1,62 @@
 
 body {
+
     background-image: url("Pizza-3007395.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 0% 0%;
-    
-    
     
 }
 table{
-    background-color: rgba(255, 77, 0, 0.434);
-    margin-top: 5%;
-    font-style: oblique;
+    
     font-weight: bold;
+    font-size: xx-large;
     border-color: black;
     border: 4px solid;
     border-spacing: 5px;
+    background-color: rgba(234, 140, 33, 0.189);
    
 }
 th{
-    border: 2px solid black;
+
+    border: 4px solid rgba(0, 0, 0, 1);
    
 }
 tr{
     
-    background-color: rgba(255, 255, 39,0.311);
     border-color: black;
+    background-color: rgba(234, 140, 33, 0.189);
     
+}
+select
+{
+    background-color: rgb(0, 255, 115);
 }
 td
 {
-    font-size: x-large;
-    background-color: rgba(255, 255, 39,0.311);
+
+    font-size: large;
     color: rgb(0, 0, 0);
     border: 2px solid black;
+    font-weight: bold;
+    font-style: italic;
     padding-left: 5px;
     padding-bottom: 5px;
+    background-color: rgba(234, 140, 33, 0.189);
+
 }
+
 textarea
 {
+
     font-style: italic;
-    font-size: x-large;
-    background-color: rgba(255, 255, 39,0.311);
+    font-size: large;
+    background-color: rgba(234, 140, 33, 0.189);
+
 }
 input{
-    font-weight: bold;
+
+    font-style: italic;
     font-size: large;
-    background-color: rgba(255, 255, 39,0.311);
+    background-color: rgba(234, 140, 33, 0.189);
+
 }
