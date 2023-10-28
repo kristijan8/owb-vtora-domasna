@@ -1,9 +1,11 @@
+
 body {
-    background-color: rgb(127, 45, 0);
-    background-image: url("pizza.jpg");
+    background-image: url("Pizza-3007395.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 0% 20%;
+    background-position: 0% 0%;
+    
+    
     
 }
 table{
@@ -39,10 +41,10 @@ textarea
 {
     font-style: italic;
     font-size: x-large;
-    background-color: rgba(255, 255, 255, 0.511);
+    background-color: rgba(255, 255, 39,0.311);
 }
 input{
     font-weight: bold;
     font-size: large;
-    background-color: rgba(255, 255, 255, 0.511);
+    background-color: rgba(255, 255, 39,0.311);
 }
